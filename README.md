@@ -47,6 +47,12 @@ The FastAPI app serves the frontend at `/` and static files under `/static`.
 
 ---
 
+## Install Package
+
+- pip install -r requirements.txt
+
+---
+
 ## HOW TO RUN 
 
 - python -m uvicorn monitor_backend.main:app --reload
